@@ -1,0 +1,13 @@
+{
+  "name": "webrtcwebcam",
+  "version": "1.0.0",
+  "description": "getUserMedia impl for a simple webcam",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "budo index.js"
+  },
+  "author": "Michael Dowling",
+  "license": "ISC"
+}
